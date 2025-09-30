@@ -1,6 +1,7 @@
 # Sistema de Inventario - Feria EMI
 
-Un sistema completo de gestión de inventario desarrollado con **NestJS** para el backend y **Next.js** para el frontend.
+Este proyecto se presentara en la FERIA EMI 2025 en el contexto de utlización en las propias Universidad para ayudar y mantene un registro en el inventario de sus almacenes.
+Siendo un sistema completo de gestión de inventario desarrollado con **NestJS** para el backend y **Next.js** para el frontend.
 
 ## Tecnologías Utilizadas
 
