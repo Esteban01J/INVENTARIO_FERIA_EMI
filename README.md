@@ -61,19 +61,29 @@ Un sistema completo de gestión de inventario desarrollado con **NestJS** para e
 ![Modo Nocturno](docs/images/ModoNocturno.png)
 
 ### Vista Móvil de Login
-![Vista Móvil de Login](docs/images/VistaMovilLogin.png)
+<p align="center">
+  <img src="docs/images/VistaMovilLogin.png" alt="Vista Móvil de Login" width="300"/>
+</p>
 
 ### Vista Móvil de Dashboard
-![Vista Móvil de Inventario Dashboard](docs/images/VistaMovilInvetario.png)
+<p align="center">
+  <img src="docs/images/VistaMovilInvetario.png" alt="Vista Móvil de Inventario Dashboard" width="300"/>
+</p>
 
 ### Vista Móvil de Menú
-![Vista Móvil de Menú](docs/images/VistaMovilMenu.png)
+<p align="center">
+  <img src="docs/images/VistaMovilMenu.png" alt="Vista Móvil de Menú" width="300"/>
+</p>
 
 ### Vista Móvil de Modo Noche
-![Vista Móvil de Modo Noche](docs/images/VistaMovilModoNoche.png)
+<p align="center">
+  <img src="docs/images/VistaMovilModoNoche.png" alt="Vista Móvil de Modo Noche" width="300"/>
+</p>
 
 ### Vista Móvil de Editar Producto
-![Vista Móvil de Editar Producto](docs/images/VistaMovilEditarProducto.png)
+<p align="center">
+  <img src="docs/images/VistaMovilEditarProducto.png" alt="Vista Móvil de Editar Producto" width="300"/>
+</p>
 
 ## Requisitos Previos
 
